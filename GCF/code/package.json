@@ -9,7 +9,7 @@
     "url": ""
   },
   "engines": {
-    "node": "8.x.x"
+    "node": "10"
   },
   "scripts": {},
   "devDependencies": {},
